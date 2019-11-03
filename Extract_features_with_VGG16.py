@@ -1,4 +1,4 @@
-#VGG16を使用して特徴を抽出する Extract features with VGG16
+#VGG16を使用して画像の特徴を抽出 Extract features with VGG16
 
 from keras.applications.vgg16 import VGG16
 from keras.preprocessing import image
