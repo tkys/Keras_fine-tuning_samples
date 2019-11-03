@@ -1,4 +1,4 @@
-# ResNet50でImageNetクラスを分類する  Classify ImageNet classes with ResNet50
+# ResNet50 ImageNet クラス分類  Classify ImageNet classes with ResNet50
 
 from keras.applications.resnet50 import ResNet50
 from keras.preprocessing import image
